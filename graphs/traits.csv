@@ -1,0 +1,5 @@
+Function,Trait,Training Accuracy,Validation Accuracy,Test Accuracy
+Attitude,Extraversion/Introversion,100,100,100
+Information-Gathering,Intuition/Sensing,100,63.0952,55.3922
+Decision-Making,Feeling/Thinking,98.9796,69.0476,61.7647
+Lifestyle Preference,Judging/Perception,99.4989,64.2857,60.2941
